@@ -1,0 +1,11 @@
+*
+!.gitignore
+!*.c
+!*.h
+!*.cpp
+!*.hpp
+!CMakeLists.txt
+!*/
+
+# ignore cmake
+CMakeFiles
